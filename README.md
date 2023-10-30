@@ -1,6 +1,6 @@
 These are my fine tuned settings and hotkeys for **VSCode**
 
-![screenshot](img/standarlook.png)
+![screenshot](img/standardlook.png)
 
 ## Features 
 - Minimal and clean style 
@@ -21,4 +21,4 @@ These are my fine tuned settings and hotkeys for **VSCode**
 
 
 ![screenshot](img/sidebar.png)
-![screenshot](img/last.png)
+![screenshot](img/Last.png)
