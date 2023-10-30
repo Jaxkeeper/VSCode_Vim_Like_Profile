@@ -15,7 +15,7 @@ These are my fine tuned settings and hotkeys for **VSCode**
 - *cmd + r* --> Opens replace 
 - *n* --> if you are in the file explorer it will crate a new file
 - *cmd + n* --> if you are in the file explorer it will crate a new directory
-- 
+
 **To-add:**
 1. Toggle and close terminal
 
