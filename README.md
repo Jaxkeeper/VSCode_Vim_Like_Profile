@@ -1,5 +1,7 @@
 These are my fine tuned settings and hotkeys for **VSCode**
 
+![[standarlook.png]]
+
 ## Features 
 - Minimal and clean style 
 - Vim like experience
@@ -16,3 +18,6 @@ These are my fine tuned settings and hotkeys for **VSCode**
 - 
 **To-add:**
 1. Toggle and close terminal
+
+![sidebar.png]
+![last.png]
