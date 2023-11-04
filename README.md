@@ -20,7 +20,7 @@ These are my fine tuned settings and hotkeys for **VSCode**
 | ```cmd``` + ```n``` | if you are in the file explorer it will crate a new directory |
 
 **To-add:**
-1. Toggle and close terminal
+1. Toggle terminal
 
 
 ![screenshot](img/sidebar.png)
