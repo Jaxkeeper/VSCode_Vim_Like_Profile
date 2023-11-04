@@ -1,4 +1,4 @@
-These are my fine tuned settings and hotkeys for **VSCode**
+These are my fine tuned settings and hotkeys for **VSCode** and **[VSCodium](https://github.com/VSCodium/vscodium)**
 
 ![screenshot](img/standardlook.png)
 
