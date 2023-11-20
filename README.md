@@ -22,7 +22,7 @@ These are my fine tuned settings and hotkeys for **VSCode** and **[VSCodium](htt
 
 ## Font
 [Cascadia code PL](https://github.com/microsoft/cascadia-code) use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
->  - on macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew install font-caskaydia-cove-nerd-font``` to install the font
+> On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew install font-caskaydia-cove-nerd-font``` to install the font
 
 ---
 
