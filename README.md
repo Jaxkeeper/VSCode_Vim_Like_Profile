@@ -21,8 +21,8 @@ These are my fine tuned settings and hotkeys for **VSCode** and **[VSCodium](htt
 | ```cmd``` + ```t``` | Toggle Terminal |
 
 ## Font
-
-
+[Cascadia code PL](https://github.com/microsoft/cascadia-code)
+>  - use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
 
 ---
 
