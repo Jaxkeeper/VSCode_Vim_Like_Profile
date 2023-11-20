@@ -20,6 +20,11 @@ These are my fine tuned settings and hotkeys for **VSCode** and **[VSCodium](htt
 | ```cmd``` + ```n``` | If you are in the file explorer it will crate a new directory |
 | ```cmd``` + ```t``` | Toggle Terminal |
 
+## Font
+
+
+
+---
 
 ![screenshot](img/sidebar.png)
 ![screenshot](img/Last.png)
