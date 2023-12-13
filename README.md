@@ -26,5 +26,20 @@ These are my fine tuned settings and hotkeys for **VSCode** and **[VSCodium](htt
 
 ---
 
+## Extensions
+>[Better Comments](https://github.com/aaron-bond/better-comments)
+
+>[Code Runner](https://github.com/formulahendry/vscode-code-runner)
+
+>[Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
+
+>[Prettier](https://github.com/prettier/prettier-vscode)
+
+>[Tokyo Night Theme](https://github.com/enkia/tokyo-night-vscode-theme)
+
+>[Vim](https://github.com/VSCodeVim/Vim)
+
+---
+
 ![screenshot](img/sidebar.png)
 ![screenshot](img/Last.png)
